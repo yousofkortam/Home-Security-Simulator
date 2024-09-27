@@ -1,0 +1,46 @@
+Sep 27, 2024 10:24:03 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:04 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:05 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:09 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:10 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:24:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:02 PM com.fawry.logger.MyLogger logInfo
+INFO: Siemens Motion Sensor started
+Sep 27, 2024 10:28:02 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Smoke Sensor started
+Sep 27, 2024 10:28:02 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:04 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:04 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:05 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:07 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:08 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:09 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:10 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:11 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:14 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:14 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:15 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:16 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 27, 2024 10:28:16 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
