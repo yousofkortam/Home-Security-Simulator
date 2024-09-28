@@ -44,3 +44,463 @@ Sep 27, 2024 10:28:16 PM com.fawry.logger.MyLogger logWarning
 WARNING: Honeywell Motion Sensor detected
 Sep 27, 2024 10:28:16 PM com.fawry.logger.MyLogger logWarning
 WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Siemens Motion Sensor started
+Sep 28, 2024 1:16:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Smoke Sensor started
+Sep 28, 2024 1:16:11 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:12 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:12 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:13 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:13 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:13 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:13 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:15 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:15 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:16 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:16 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:18 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:18 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:20 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:20 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:21 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:21 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:22 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:23 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:25 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:25 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:27 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:27 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:28 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:28 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:29 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:29 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:31 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:31 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:34 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:34 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:35 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:35 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:37 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:37 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:38 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:38 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:38 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:38 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:40 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:40 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:45 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:45 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:50 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:50 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:50 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:50 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:51 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:51 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:52 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:52 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:16:53 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:53 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:55 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:55 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:56 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:56 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:16:59 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:16:59 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:00 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:00 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:00 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:00 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:02 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:02 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:03 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:03 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:04 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:04 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:05 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:05 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:06 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:06 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:08 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:08 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:09 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:09 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:09 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:09 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:11 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:13 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:13 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:15 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:15 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:16 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:16 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:17 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:17 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:17 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:17 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:18 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:18 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:19 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:19 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:20 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:20 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:21 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:21 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:22 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:22 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:23 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:23 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:25 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:25 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:28 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:28 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:32 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:32 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:34 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:34 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:35 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:35 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:36 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:36 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:39 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:39 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:40 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:40 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:42 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:42 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:43 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:43 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:43 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:43 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:44 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:44 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:44 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:44 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:48 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:48 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:49 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:49 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:50 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:50 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:52 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:52 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:52 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:52 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:54 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:54 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:17:55 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:55 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:17:56 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:17:56 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:00 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:00 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:01 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:01 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:01 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:01 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:03 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:03 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:06 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:06 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:07 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:07 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:07 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:07 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:15 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:15 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:17 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:17 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:20 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:20 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:22 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:22 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:23 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:23 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:24 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:24 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:26 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:26 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:28 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:28 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:29 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:29 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:30 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:30 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:32 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:32 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:33 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:33 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:18:33 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:33 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:18:34 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:18:34 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:20:29 PM com.fawry.logger.MyLogger logInfo
+INFO: Siemens Motion Sensor started
+Sep 28, 2024 1:20:30 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Smoke Sensor started
+Sep 28, 2024 1:20:30 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:20:31 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:20:35 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:20:36 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:20:38 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:20:39 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:20:43 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:20:44 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:20:52 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:20:53 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:21:00 PM com.fawry.logger.MyLogger logInfo
+INFO: Siemens Motion Sensor started
+Sep 28, 2024 1:21:00 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Smoke Sensor started
+Sep 28, 2024 1:21:04 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:21:06 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:21:09 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:21:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:21:53 PM com.fawry.logger.MyLogger logInfo
+INFO: Siemens Motion Sensor started
+Sep 28, 2024 1:21:53 PM com.fawry.logger.MyLogger logInfo
+INFO: Honeywell Smoke Sensor started
+Sep 28, 2024 1:21:54 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:21:56 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:22:00 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:02 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:22:13 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:15 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:22:20 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:22 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:22:31 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:33 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:22:39 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:41 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:22:47 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:49 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:22:56 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:22:58 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Smoke detected !!! Alarm turned on
+Sep 28, 2024 1:23:02 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:23:04 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
+Sep 28, 2024 1:23:09 PM com.fawry.logger.MyLogger logWarning
+WARNING: Honeywell Motion Sensor detected
+Sep 28, 2024 1:23:11 PM com.fawry.logger.MyLogger logInfo
+INFO: Sending message using SMSImplementation1: Motion detected !!! Alarm turned on
