@@ -9,6 +9,7 @@ import com.fawry.sensor.command.TurnOnCommand;
 import com.fawry.sensor.factories.HoneywellSensorFactory;
 import com.fawry.sensor.factories.SensorFactory;
 import com.fawry.sensor.factories.SiemensSensorFactory;
+import com.fawry.sensor.securitySystem.HomeSecuritySystem;
 import com.fawry.sms.SMS;
 import com.fawry.sms.SMSAdapter;
 import com.fawry.sms.SMSImplementation1;
@@ -24,6 +25,11 @@ public class Main {
         // Create smoke sensor form Honeywell company
         SensorFactory honeywellSensorFactory = new HoneywellSensorFactory();
         Sensor smokeSensor = honeywellSensorFactory.createSmokeSensor();
+
+        // Register sensors on system using observer pattern.
+        HomeSecuritySystem homeSecuritySystem = new HomeSecuritySystem();
+        homeSecuritySystem.registerSensor(smokeSensor);
+        homeSecuritySystem.registerSensor(motionSensor);
 
         Device alarm = new AlarmDevice();
 

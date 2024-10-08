@@ -30,7 +30,7 @@ public class SiemensMotionSensor extends SensorInfo implements Sensor {
     @Override
     public void detect() {
         this.setDetected(true);
-        logger.logWarning("Honeywell Motion Sensor detected");
+        logger.logWarning("Siemens Motion Sensor detected");
         // TODO: Implement detect logic
     }
 }
